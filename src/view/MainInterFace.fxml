@@ -63,5 +63,6 @@
       <Button layoutX="282.0" layoutY="440.0" mnemonicParsing="false" text="UPDATE" />
       <Button layoutX="143.0" layoutY="490.0" mnemonicParsing="false" text="CLEAR" />
       <Button layoutX="256.0" layoutY="490.0" mnemonicParsing="false" text="EXIT" />
+      <Label layoutX="220.0" layoutY="231.0" prefHeight="25.0" prefWidth="55.0" />
    </children>
 </AnchorPane>
